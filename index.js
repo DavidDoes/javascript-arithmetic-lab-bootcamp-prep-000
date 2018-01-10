@@ -26,3 +26,8 @@ function makeInt(n, base){
   var parsed = parseInt(n, 10)
   return parsed
 }
+
+function preserveDecimal(n, base){
+  var preserved = parseFloat()
+  return preserved
+}
