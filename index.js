@@ -23,5 +23,5 @@ function dec(n){
 }
 
 function makeInt(n, base){
-  return parseInt('3', 10)
+  var parsed = parseInt('3', 10)
 }
